@@ -19,7 +19,7 @@ Designed to showcase construction services, projects, and company information wi
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="1st-Landing%20Page%20Team/img/desktop.png" alt="Sunny Builders Landing Page Desktop View" width="100%" />
+<img src="1st-Landing%20Page%20Team/img/desktop.jpg" alt="Sunny Builders Landing Page Desktop View" width="100%" />
 
 The **Sunny Builders Landing Page** is a professional UI concept created for construction companies, real estate developers, and architectural firms.  
 It focuses on a visually appealing presentation of services, completed projects, and company information while ensuring smooth navigation and responsiveness across devices.
