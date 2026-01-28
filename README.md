@@ -4,13 +4,18 @@
 <div align="center">
 
 <!-- 🔥 LOGO -->
-<img src="1st-Landing%20Page%20Team/favicon.ico.png" alt="Sunny Builders Logo" width="120" />
+<img src="1st-Landing%20Page%20Team/favicon.ico.png" alt="Sunny Builders Logo" width="80" />
 
 <br /><br />
 
 ## 🏗️ Sunny Builders – Landing Page  
 A clean, modern, and fully responsive **Landing Page Website** built using **HTML, CSS, JavaScript, and Bootstrap**.  
 Designed to showcase construction services, projects, and company information with a professional and appealing layout.
+
+<br />
+
+<!-- 🚀 LIVE DEMO -->
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen)](https://sunny-builders.vercel.app/)
 
 </div>
 
@@ -53,6 +58,12 @@ Perfect for:
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Bootstrap 5](https://getbootstrap.com/)  
+
+---
+
+## 🚀 Live Demo
+
+Check out the deployed project here: [Sunny Builders Landing Page](https://sunny-builders.vercel.app/)
 
 ---
 
