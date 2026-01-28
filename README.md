@@ -17,6 +17,12 @@ Designed to showcase construction services, projects, and company information wi
 <!-- 🚀 LIVE DEMO -->
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen)](https://sunny-builders.vercel.app/)
 
+---
+
+## 🚀 Live Demo
+
+Check out the deployed project here: [Sunny Builders Landing Page](https://sunny-builders.vercel.app/)
+
 </div>
 
 <br />
@@ -58,12 +64,6 @@ Perfect for:
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 * [Bootstrap 5](https://getbootstrap.com/)  
-
----
-
-## 🚀 Live Demo
-
-Check out the deployed project here: [Sunny Builders Landing Page](https://sunny-builders.vercel.app/)
 
 ---
 
