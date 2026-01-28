@@ -23,6 +23,8 @@ Designed to showcase construction services, projects, and company information wi
 
 Check out the deployed project here: [Sunny Builders Landing Page](https://sunny-builders.vercel.app/)
 
+---
+
 </div>
 
 <br />
